@@ -52,7 +52,7 @@ this.setState({
             clicked:true,
             name:"",
             department:"",
-            rating: event.target.rating,
+            rating:'' ,
         })
     }
 

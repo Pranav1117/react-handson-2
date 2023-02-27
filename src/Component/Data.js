@@ -17,7 +17,7 @@ constructor (props){
                     return(
                     <div id='inner_container' key={index}>
                         <span>Name:{ele.name} |
-                       Department: {ele.department} |
+                        Department: {ele.department} |
                         Rating :{ele.rating}</span>
                     </div>
                     );
